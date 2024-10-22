@@ -1,4 +1,5 @@
 ## Here are some practical tasks for ones that are learning SQL. 
+
 * Hardness evolve from *D0* to *D9*, *team_0* placed somewhere in the middle of the list and *team_1* in the end. The data for the practice is placed in [*materials* folder](materials/model.sql). *Src* folders contain the finished tasks. Each of *D*s is dedicated to different topic.
 	* [D0](D0/README_D0.md)
 	* [D1](D1/README_D1.md)
